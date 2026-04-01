@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "カーマイン",
+  "base_artist": "ELLEGARDEN",
+  "createdAt": "2026-04-01T07:43:33.036371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーマイン",
+      "artist": "UNLIMITS",
+      "has_synced": true,
+      "path": "select/01_カーマイン_UNLIMITS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーマイン",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_カーマイン_ELLEGARDEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "カーマイン",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/localdb_01_カーマイン_ELLEGARDEN.lrc",
+      "repo_name": "Qp8SwP3Ggl8"
+    }
+  ]
+}
