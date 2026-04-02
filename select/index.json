@@ -1,33 +1,177 @@
 {
   "version": 1,
-  "base_track": "カーマイン",
+  "base_track": "10am",
   "base_artist": "ELLEGARDEN",
-  "createdAt": "2026-04-01T07:43:33.036371Z",
+  "createdAt": "2026-04-02T07:32:11.133962Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "カーマイン",
-      "artist": "UNLIMITS",
+      "title": "10AM/Save The World - Instrumental",
+      "artist": "Metro Boomin",
       "has_synced": true,
-      "path": "select/01_カーマイン_UNLIMITS.lrc"
+      "path": "select/01_10AM_Save_The_World_-_Instrumental_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10AM / Save The World (Instrumental)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/02_10AM___Save_The_World_(Instrumental)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "10AM/Save The World",
+      "artist": "Metro Boomin feat. Gucci Mane",
+      "has_synced": true,
+      "path": "select/03_10AM_Save_The_World_Metro_Boomin_feat._Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "10AM / Save The World (feat. Gucci Mane)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/04_10AM___Save_The_World_(feat._Gucci_Mane)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10AM / Save the World",
+      "artist": "Metro Boomin; Gucci Mane",
+      "has_synced": true,
+      "path": "select/05_10AM___Save_the_World_Metro_Boomin;_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "10AM/Save The World (feat. Gucci Mane)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/06_10AM_Save_The_World_(feat._Gucci_Mane)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "10AM/Save The World",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/07_10AM_Save_The_World_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "10AM/Save The World",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/08_10AM_Save_The_World_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "10am Gare du Nord",
+      "artist": "Keaton Henson",
+      "has_synced": false,
+      "path": "select/09_10am_Gare_du_Nord_Keaton_Henson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "10AM/Save the World",
+      "artist": "Metro Boomin feat. Gucci Mane",
+      "has_synced": true,
+      "path": "select/10_10AM_Save_the_World_Metro_Boomin_feat._Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "10AM/Save The World (feat. Gucci Mane)",
+      "artist": "Metro Boomin feat. Gucci Mane",
+      "has_synced": false,
+      "path": "select/11_10AM_Save_The_World_(feat._Gucci_Mane)_Metro_Boomin_feat._Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "10AM/Save The World (Feat. Gucci Mane, Kevin Lemons & Higher Calling)",
+      "artist": "Metro Boomin",
+      "has_synced": false,
+      "path": "select/12_10AM_Save_The_World_(Feat._Gucci_Mane,_Kevin_Lemons_&_Higher_Calling)_Metro_Boomin.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "10AM/Save The World",
+      "artist": "Metro Boomin, Gucci Mane",
+      "has_synced": false,
+      "path": "select/13_10AM_Save_The_World_Metro_Boomin,_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "10AM/Save The World (feat. Gucci Mane)",
+      "artist": "Metro Boomin/Gucci Mane",
+      "has_synced": false,
+      "path": "select/14_10AM_Save_The_World_(feat._Gucci_Mane)_Metro_Boomin_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "10am Automatic",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/15_10am_Automatic_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "10AM ／ Save The World (Ft. Gucci Mane)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/16_10AM___Save_The_World_(Ft._Gucci_Mane)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "10am Automatic",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/17_10am_Automatic_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "10AM/Save the World",
+      "artist": "Metro Boomin ft. Gucci Mane",
+      "has_synced": false,
+      "path": "select/18_10AM_Save_the_World_Metro_Boomin_ft._Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "10am Gare du Nord",
+      "artist": "Keaton Henson",
+      "has_synced": true,
+      "path": "select/19_10am_Gare_du_Nord_Keaton_Henson.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "カーマイン",
+      "title": "10am",
       "artist": "ELLEGARDEN",
       "has_synced": false,
-      "path": "select/pl_01_カーマイン_ELLEGARDEN.txt"
+      "path": "select/pl_01_10am_ELLEGARDEN.txt"
     },
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "カーマイン",
+      "title": "10am",
       "artist": "ELLEGARDEN",
-      "has_synced": true,
-      "path": "select/localdb_01_カーマイン_ELLEGARDEN.lrc",
-      "repo_name": "Qp8SwP3Ggl8"
+      "has_synced": false,
+      "path": "select/localdb_01_10am_ELLEGARDEN.txt",
+      "repo_name": "FiFCSbLkF80"
     }
   ]
 }
