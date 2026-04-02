@@ -1,24 +1,56 @@
-# ELLEGARDEN – カーマイン
+# ELLEGARDEN – 10am
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:21.10] 手に取って 爪を立てた
-[00:22.20] その未来は
-[00:25.69] 滲む色に 霞んで見えた
-[00:49.21] 夏の色も塗りつぶすような赤に
-[00:55.85] 僕らの声 かき消されていくようで
-[01:02.48] 立ち止まるその足を踏み出そうぜ
-[01:09.08] 見せかけの嘘 やり過ごすより
-[01:15.33] 何度目の朝 誓いと引き換えるよ
-[01:28.96] 僕らが見ていた夢
-[01:33.80] 透き通って ヒビの割れた
-[01:36.89] この願いは
-[01:41.33] 君の色に よく似ていた
-[01:41.43] 夏の夜の抱きしめるような風に
-[01:54.56] かすかな声 彷徨い続けてるようで
-[02:04.20] 立ち止まるその足を踏み出そうぜ
-[02:10.99] 見せかけの嘘 やり過ごすより
-[02:16.83] 何度目の朝 誓いと引き換えるよ
-僕らが見ていた夢
+```
+It's almost 10am
+I'm lying in my bed
+Thinking back to those days
+I wonder where it's leading
+Where it's leading
+Would it be better
+What are the odds
+Place you bets or cash out
+Heads down, unlocked
+I have two keys in my hands
+Gear up, tighten
+Make sure the safety is off
+Heads down, unlocked
+I heard it calling my name
+Gear up, tighten
+Make sure the safety is off
+Another misty day
+The future will unfold
+I can't see very far
+I wonder where it's leading
+Where it's leading
+Would I be better
+What are the odds
+Place you bets or cash out
+Heads down, unlocked
+I have two keys in my hands
+Gear up, tighten
+Make sure the safety is off
+Heads down, unlocked
+I heard it calling my name
+Gear up, tighten
+Make sure the safety is off
+I've been misguided
+Can't be helped
+This is what was set for me
+Why don't you know it
+Can't you see
+Nothing good comes easy
+Heads down, unlocked
+I have two keys in my hands
+Gear up, tighten
+Make sure your safety is off
+Heads down, unlocked
+I have two keys in my hands
+Gear up, tighten
+Make sure the safety is off
+Heads down, unlocked
+I heard it calling my name
+Gear up, tighten
+Make sure the safety is off
 ```
